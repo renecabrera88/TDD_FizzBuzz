@@ -1,0 +1,10 @@
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.AssemblyReference.cache
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb

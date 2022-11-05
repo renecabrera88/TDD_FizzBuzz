@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj": {}
+  },
+  "projects": {
+    "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj",
+        "projectName": "FizzBuzzTests",
+        "projectPath": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzzTests\\FizzBuzzTests.csproj",
+        "packagesPath": "C:\\Users\\renec\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzzTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+                "projectPath": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectName": "FizzBuzz",
+        "projectPath": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\renec\\.nuget\\packages\\",
+        "outputPath": "D:\\c#\\TDD_Course_Fundamental_CS\\FizzBuzz\\FizzBuzz\\FizzBuzz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

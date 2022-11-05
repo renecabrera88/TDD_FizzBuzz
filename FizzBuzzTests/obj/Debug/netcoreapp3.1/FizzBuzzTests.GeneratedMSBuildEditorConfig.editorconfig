@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FizzBuzzTests
+build_property.ProjectDir = D:\c#\TDD_Course_Fundamental_CS\FizzBuzz\FizzBuzz\FizzBuzzTests\
